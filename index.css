@@ -49,11 +49,9 @@ body {
     overflow: hidden;
     transition: all 0.3s linear;
   }
-  
   .show-menu {
     height: 10rem;
   }
-  
   .nav-header {
     display: flex;
     align-items: center;
